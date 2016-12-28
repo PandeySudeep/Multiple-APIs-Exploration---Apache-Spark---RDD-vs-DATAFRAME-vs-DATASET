@@ -1,6 +1,6 @@
 # Multiple-APIs-Exploration---Apache-Spark---RDD-vs-DATAFRAME-vs-DATASET
 <html>
 <body>
-<img src="Multiple-APIs-Exploration---Apache-Spark---RDD-vs-DATAFRAME-vs-DATASET/Disclaimer.PNG" alt = "call signs" style="width:304px;height:228px;">
+<img src="https://github.com/PandeySudeep/Multiple-APIs-Exploration---Apache-Spark---RDD-vs-DATAFRAME-vs-DATASET/blob/master/Disclaimer.PNG" alt = "disclaimer" style="width:304px;height:228px;">
 </body>
 </html>
