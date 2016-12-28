@@ -9,4 +9,4 @@ Data Transformation Pipeline:
 -----------------------------
 <p>zips.json consists of population distribution data across US zipcodes....pick 5 specific states....find the zipcode that's most populated....calculate the distance of that zipcode from my home (I live in Dallas,TX btw).</p>
 
-
+*   **Sharing Resources Per-Partition Basis:**
